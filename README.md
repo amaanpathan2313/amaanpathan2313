@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...React.JS & Node.Js
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...HTML | CSS | JavaScript
-- 📫 How to reach me: ...email: [amanpathan348@gmail.com](mailto:amanpathan348@gmail.com) | [LinkedIn](wwww.linkedin.com/in/amaan23/)
+- 📫 How to reach me: ...email: [amanpathan348@gmail.com](mailto:amanpathan348@gmail.com) | [LinkedIn](https://www.linkedin.com/in/amaan23/)
 - 😄 Pronouns: ...He/His
  <!--- - ⚡ Fun fact: ... -->
 
