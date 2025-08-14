@@ -1,7 +1,7 @@
   ### Hello👋 I am Amaan Pathan
 
-I am a aspiring Full-Stack Web Developer, currently pursuing 30 Week Full-Time web development course at Masai School, Benagluru.
-I am very much keen in learning new things in MERN Stack, I am Interested to serve in an environment that enables me to utilize my knowledge and skills effectively towards the achievement of organization also to progress professionally.
+I am an aspiring Full-Stack Web Developer, currently pursuing a 30 Week Full-Time web development course at Masai School, Bengaluru.
+I am very much keen in learning new things in MERN Stack. I am Interested to serve in an environment that enables me to utilize my knowledge and skills effectively towards the achievement of organization also to progress professionally.
 
 
 Here are some ideas to get you started:
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
   <div align="center">
   
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,redux,ts,nodejs,express,mongodb,git,github,firebase,aws,netlify,babel,cloudflare,figma,gitlab,linux,npm,postman,powershell,vscode)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,redux,ts,nodejs,express,mongodb,git,github,firebase,aws,netlify,babel,cloudflare,figma,gitlab,npm,postman,powershell,vscode)](https://skillicons.dev)
    
    </div>
    
@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 
   <i><h3 align="center">Contact/Connect:</h3></i>
   <p align = "center">
-  <a href="mailto:amanpathan348@gmail.com">
+  <a href="mailto: amanpathan348@gmail.com">
     <img align="center" alt="Amaan Pathan @ Mail" width="50px" src="https://cdn4.iconfinder.com/data/icons/buno-email/32/__email_address_contact-128.png" />&nbsp;
   </a>
-  <a href="www.linkedin.com/in/amaan23/">
+  <a href="https://www.linkedin.com/in/amaan23/">
     <img align="center" alt="Amaan Pathan @LinkedIN" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-128.png" />&nbsp;
   </a>
 <!--   <a href="https://venugopalburli-portfolio.netlify.app/">
