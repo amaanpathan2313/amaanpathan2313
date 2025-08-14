@@ -55,7 +55,7 @@ Here are some ideas to get you started:
     <img align="center" alt="Venu @ Resume" width="45px" src="https://cdn1.iconfinder.com/data/icons/development-3/91/SEODevelopment__Marketing_114-128.png" />&nbsp;
   </a> -->
   
-  <a href="tel:+91-9321434984" >
+  <a href="tel:+91-9321434984" >9321434984
     <img align="center" alt="Amaan @ Mobile" width="45px" src="https://cdn0.iconfinder.com/data/icons/network-and-communication-1-2/128/3-128.png" />&nbsp;
   </a>
 </p>
