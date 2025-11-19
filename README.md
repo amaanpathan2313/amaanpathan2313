@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
   <div align="center">
   
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,redux,ts,nodejs,express,mongodb,git,github,firebase,aws,netlify,babel,cloudflare,figma,gitlab,npm,postman,powershell,vscode)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,materialui,react,redux,ts,nodejs,express,mongodb,redis,git,github,firebase,aws,netlify,babel,cloudflare,figma,gitlab,npm,postman,powershell,vscode)](https://skillicons.dev)
    
    </div>
    
